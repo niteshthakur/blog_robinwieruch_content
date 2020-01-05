@@ -153,7 +153,7 @@ Start your application with `npm start` again. You should be able to see the out
 
 # Hot Module Replacement in React
 
-A huge development boost will give you [react-hot-loader](https://github.com/gaearon/react-hot-loader) (Hot Module Replacement). It will shorten your feedback loop during development. Basically whenever you change something in your source code, the change will apply in your app running in the browser [without reloading the entire page](https://www.youtube.com/watch?v=xsSnOQynTHs). First, install it from your project's root directory on the command line:
+react-hot-loader will give you a huge development boost( [react-hot-loader](https://github.com/gaearon/react-hot-loader) (Hot Module Replacement)). It will shorten your feedback loop during development. Basically whenever you change something in your source code, the change will apply in your app running in the browser [without reloading the entire page](https://www.youtube.com/watch?v=xsSnOQynTHs). First, install it from your project's root directory on the command line:
 
 ```javascript
 npm install --save-dev react-hot-loader
